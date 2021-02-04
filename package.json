@@ -26,7 +26,10 @@
         "muffin",
         "trei",
         "Dark Theme",
-        "Minimalistic"
+        "Unity",
+        "C#",
+        "C++",
+        "Gamedev"
     ],
     "contributes": {
         "themes": [
