@@ -1,0 +1,40 @@
+{
+    "name": "glory-muffin",
+    "displayName": "Glory Muffin",
+    "description": "A magnificent combination of bright colors sent down by the muffin lords for a single purpose: bless coders with awesome colors!",
+    "publisher": "Trei",
+    "author": {
+        "name": "Trei"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "url": "https://github.com/Treixatek/glory-muffin.git"
+    },
+    "icon": "images/glory-muffin-icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "pink",
+        "fushia",
+        "blue",
+        "yellow",
+        "colorfull",
+        "muffin",
+        "trei",
+        "Dark Theme",
+        "Minimalistic"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Glory Muffin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Glory Muffin-color-theme.json"
+            }
+        ]
+    }
+}
