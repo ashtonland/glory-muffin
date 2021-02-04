@@ -1,10 +1,13 @@
-# README
-## This is the README for your extension "glory-muffin"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Glory Muffin Theme
+Glory Muffin is a custom dark theme with a bright syntax coloring.
+---
+## Installation
+1. Simply search **"Glory Muffin"** in the vscode Extensions Marketplace, then set it as your theme!
+2. You can also clone the repository into the `~/.vscode/extensions` directory.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Screenshots
+#### C Sharp
+<img src="/screenshots/Csharp.png" alt="Glory Muffin with C#" />
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
