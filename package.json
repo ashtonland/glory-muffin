@@ -13,7 +13,14 @@
     "repository": {
         "url": "https://github.com/Treixatek/glory-muffin.git"
     },
+    "bugs": {
+        "url": "https://github.com/Treixatek/glory-muffin/issues"
+    },
     "icon": "images/glory-muffin-icon.png",
+    "galleryBanner": {
+        "color": "#1b1c1d",
+        "theme": "light"
+    },
     "categories": [
         "Themes"
     ],

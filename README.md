@@ -8,10 +8,18 @@ Glory Muffin is a custom dark theme with a bright syntax coloring. Aslo don't fo
 ## Screenshots
 #### C Sharp
 <img src="/screenshots/Csharp.png" alt="Glory Muffin with C#" />
-testing...
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### C++
+<img src="/screenshots/cplusplus.png" alt="Glory Muffin with C++" />
 
-**Enjoy!**
+#### Json
+<img src="/screenshots/jsonIm.png" alt="Glory Muffin with Json" />
+*I'm using the Dank Mono font, Fira Code is free and also works well!
+
+### Other Supported Languages
+1. Css
+
+##### Upcoming:
+1. Javascript
+2. Html
+3. Vue
