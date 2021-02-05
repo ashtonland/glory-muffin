@@ -100,9 +100,10 @@
         "input.foreground": "#464E68",
         "panelTitle.activeBorder": "#ff3f6f",
 
-		"titleBar.activeBackground": "#0A0C15",
+		"titleBar.activeBackground": "#12141D",
 		"titleBar.activeForeground": "#fff",
-		"titleBar.inactiveForeground": "#b9b8d4",
+		"titleBar.inactiveForeground": "#464E68",
+		
         //tabs
         "editorGroupHeader.tabsBackground": "#141824",
         "tab.inactiveBackground": "#141824",
