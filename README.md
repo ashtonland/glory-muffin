@@ -1,9 +1,17 @@
-<br>
-<h1 align="center">Glory Muffin Theme</h1>
-<h5 align="center">Glory Muffin is a custom dark theme with a bright syntax coloring. Aslo don't forget that the colors were crafted by the high muffin lords, so it's pretty good...</h5>
+<div align="center">
+	<img src="/images/glory-muffin-icon.png" alt="Logo" width="90" height="90">
+	<h3 align="center">🙌 Glory Muffin 🙌</h3>
+	<p align="center">
+    Vscode dark theme, crafted by the high muffin lords, so it's pretty good...
+    <br />
+    <a href="#c-sharp"><strong>See the theme ↓</strong></a>
+   	<br />
+  </p>
+</div>
 
 ## Installation
-Clone the repository into the `~/.vscode/extensions` directory. Then it will show up in the theme selector dropdown!
+1. Clone the repository into the `~/.vscode/extensions` directory (i.e. in Windows/users/YourName). Then it will show up in the theme selector dropdown!
+2. In vscode, press `Crl K` followed by `Crl T` to open the theme selection dropdown, then select Glory Muffin!
 
 ## Screenshots
 #### C Sharp
@@ -18,8 +26,3 @@ Clone the repository into the `~/.vscode/extensions` directory. Then it will sho
 
 ### Other Supported Languages
 1. Css
-
-##### Upcoming:
-1. Javascript
-2. Html
-3. Vue
