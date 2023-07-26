@@ -1,20 +1,21 @@
 {
     "name": "glory-muffin",
     "displayName": "Glory Muffin",
-    "description": "A magnificent combination of bright colors sent down by the muffin lords for a single purpose: bless coders with awesome colors!",
-    "publisher": "Trei",
+    "description": "A contrasty & colorful vscode theme",
+    "publisher": "ashtondev",
     "author": {
-        "name": "Trei"
+        "name": "Ashton Dev",
+        "url": "https://www.youtube.com/@ashtondev"
     },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
     "repository": {
-        "url": "https://github.com/Treixatek/glory-muffin.git"
+        "url": "https://github.com/ashtonland/glory-muffin.git"
     },
     "bugs": {
-        "url": "https://github.com/Treixatek/glory-muffin/issues"
+        "url": "https://github.com/ashtonland/glory-muffin/issues"
     },
     "icon": "images/glory-muffin-icon.png",
     "galleryBanner": {
@@ -25,18 +26,22 @@
         "Themes"
     ],
     "keywords": [
+        "unity",
+        "dark theme",
+        "color theme",
+        "syntax theme",
+        "syntax highlighting",
+        "c# theme",
+        "theme",
+        "c#",
+        "c++",
+        "gamedev",
         "pink",
         "fushia",
         "blue",
         "yellow",
-        "colorfull",
-        "muffin",
-        "trei",
-        "Dark Theme",
-        "Unity",
-        "C#",
-        "C++",
-        "Gamedev"
+        "colorful",
+        "muffin"
     ],
     "contributes": {
         "themes": [
