@@ -15,13 +15,13 @@
 
 ## Screenshots
 #### C Sharp
-<img src="/screenshots/Csharp.png" alt="Glory Muffin with C#" />
+<img src="https://github.com/ashtonland/glory-muffin/tree/main/screenshots/Csharp.png" alt="Glory Muffin with C#" />
 
 #### C++
-<img src="/screenshots/cplusplus.png" alt="Glory Muffin with C++" />
+<img src="https://github.com/ashtonland/glory-muffin/tree/main/screenshots/cplusplus.png" alt="Glory Muffin with C++" />
 
 #### Json
-<img src="/screenshots/jsonIm.png" alt="Glory Muffin with Json" />
+<img src="https://github.com/ashtonland/glory-muffin/tree/main/screenshots/jsonIm.png" alt="Glory Muffin with Json" />
 *I'm using the Dank Mono font, Fira Code is free and also works well!
 
 ### Other Supported Languages
